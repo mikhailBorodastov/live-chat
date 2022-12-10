@@ -3,7 +3,8 @@
 ## Project description
 
 This is a simple chat app i build as a small pet project to try myself and to chat with my friends :) 
-Take a look on deployed version: https://vue-mini-blog.web.app/chatroom 
+It uses vue 3 with composition api, vue-router and firebase as hosting and DB. 
+Take a look on deployed version: https://vue-mini-blog.web.app/
 
 
 ## Project setup
