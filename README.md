@@ -1,5 +1,11 @@
 # live-chat
 
+## Project description
+
+This is a simple chat app i build as a small pet project to try myself and to chat with my friends :) 
+Take a look on deployed version: https://vue-mini-blog.web.app/chatroom 
+
+
 ## Project setup
 ```
 yarn install
